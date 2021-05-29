@@ -1,0 +1,6 @@
+
+node_modules/
+.npm
+.env
+.env.test
+serviceAccount.json
